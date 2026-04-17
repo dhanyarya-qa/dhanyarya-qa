@@ -29,30 +29,21 @@
 
 ## 🎯 About Me
 
-```javascript
-const dhany = {
-    role: "QA Automation Engineer",
-    location: "Indonesia 🇮🇩",
-    currentFocus: "E2E Test Automation",
-    funFact: "I break things professionally so users don't have to 🐛",
-
-    skills: {
-        web:    ["Playwright", "TypeScript", "Selenium"],
-        mobile: ["Appium", "Python", "Android"],
-        cicd:   ["GitHub Actions", "Allure Reports"],
-        methods: ["Page Object Model", "Data-Driven", "BDD"]
-    },
-
-    dailyRoutine: () => {
-        while (true) {
-            code();
-            test();
-            automate();
-            if (bugFound) reportAndFix();
-            else celebrate(); // 🎉
-        }
-    }
-};
+```json
+{
+  "name": "Dhany Arya Pratama",
+  "role": "QA Automation Engineer",
+  "location": "Indonesia",
+  "current_focus": "E2E Test Automation",
+  "fun_fact": "I break things professionally so users dont have to",
+  "skills": {
+    "web_automation": ["Playwright", "TypeScript", "Selenium"],
+    "mobile_automation": ["Appium", "Python", "Android"],
+    "ci_cd": ["GitHub Actions", "Allure Reports"],
+    "methods": ["Page Object Model", "Data-Driven", "BDD"]
+  },
+  "daily_routine": ["Code", "Test", "Automate", "Report", "Repeat"]
+}
 ```
 
 ---
@@ -91,7 +82,7 @@ const dhany = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanyarya-qa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanyarya-qa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" />
 </div>
 
 ---

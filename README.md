@@ -29,22 +29,41 @@
 
 ## 🎯 About Me
 
-```json
-{
-  "name": "Dhany Arya Pratama",
-  "role": "QA Automation Engineer",
-  "location": "Indonesia",
-  "current_focus": "E2E Test Automation",
-  "fun_fact": "I break things professionally so users dont have to",
-  "skills": {
-    "web_automation": ["Playwright", "TypeScript", "Selenium"],
-    "mobile_automation": ["Appium", "Python", "Android"],
-    "ci_cd": ["GitHub Actions", "Allure Reports"],
-    "methods": ["Page Object Model", "Data-Driven", "BDD"]
-  },
-  "daily_routine": ["Code", "Test", "Automate", "Report", "Repeat"]
-}
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Profile
+
+| | |
+|---|---|
+| 👤 **Name** | Dhany Arya Pratama |
+| 💼 **Role** | QA Automation Engineer |
+| 📍 **Location** | Indonesia 🇮🇩 |
+| 🎯 **Focus** | E2E Test Automation |
+| ⚡ **Fun Fact** | I break things professionally so users don't have to 🐛 |
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Skills
+
+| Category | Technologies |
+|----------|-------------|
+| 🌐 **Web** | Playwright · TypeScript · Selenium |
+| 📱 **Mobile** | Appium · Python · Android |
+| 🔄 **CI/CD** | GitHub Actions · Allure Reports |
+| 📐 **Methods** | POM · Data-Driven · BDD |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**`🔍 Identify`** ➜ **`📝 Design`** ➜ **`⚙️ Automate`** ➜ **`🚀 Deploy`** ➜ **`📊 Report`** ➜ **`🔄 Repeat`**
+
+</div>
 
 ---
 

@@ -98,10 +98,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanyarya-qa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" />
+
+![](https://img.shields.io/badge/🏗️_Repos-2+-6C63FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🧪_Test_Frameworks-2-2EAD33?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🌐_Web_Automation-Playwright-007ACC?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📱_Mobile_Automation-Appium-662D8C?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🔄_CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📊_Reporting-Allure-FFA500?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/♿_A11y-WCAG_2.0-005A9C?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📸_Visual-Regression_Testing-FF6B6B?style=for-the-badge&labelColor=0D1117)
+
 </div>
 
 ---

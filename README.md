@@ -11,7 +11,7 @@
   <a href="https://github.com/dhanyarya-qa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:dhanyarya095@gmail.com">
+  <a href="mailto:aryatama0409@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -35,14 +35,14 @@ const dhany = {
     location: "Indonesia 🇮🇩",
     currentFocus: "E2E Test Automation",
     funFact: "I break things professionally so users don't have to 🐛",
-    
+
     skills: {
         web:    ["Playwright", "TypeScript", "Selenium"],
         mobile: ["Appium", "Python", "Android"],
         cicd:   ["GitHub Actions", "Allure Reports"],
         methods: ["Page Object Model", "Data-Driven", "BDD"]
     },
-    
+
     dailyRoutine: () => {
         while (true) {
             code();
@@ -124,7 +124,7 @@ const dhany = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyarya-qa&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" />
+  <img src="https://streak-stats.demolab.com/?user=dhanyarya-qa&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" />
 </div>
 
 ---
@@ -137,48 +137,11 @@ const dhany = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhanyarya-qa/dhanyarya-qa/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!--
-  ⚠️ Untuk mengaktifkan Snake Animation, buat file:
-  .github/workflows/snake.yml di repo dhanyarya-qa/dhanyarya-qa
-  
-  Isi file snake.yml:
-  
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: dhanyarya-qa
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
----
-
 ## 🧪 What I Do
 
 ```
 🔍 Identify     →  Analyze requirements & define test scope
-📝 Design       →  Create test strategies & automation frameworks  
+📝 Design       →  Create test strategies & automation frameworks
 ⚙️ Automate     →  Build robust, maintainable test suites
 🚀 Integrate    →  Set up CI/CD pipelines for continuous testing
 📊 Report       →  Generate rich visual reports (Allure, HTML)

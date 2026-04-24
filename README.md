@@ -158,21 +158,46 @@
 
 ## 🧪 What I Do
 
-```
-🔍 Identify     →  Analyze requirements & define test scope
-📝 Design       →  Create test strategies & automation frameworks
-⚙️ Automate     →  Build robust, maintainable test suites
-🚀 Integrate    →  Set up CI/CD pipelines for continuous testing
-📊 Report       →  Generate rich visual reports (Allure, HTML)
-🔄 Iterate      →  Continuously improve test coverage & reliability
-```
-
 ---
 
 ## 💬 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 📚 All Repositories
+
+<div align="center">
+
+| Repository | Language | Description |
+|------------|----------|-------------|
+| 🌐 [**mepo-playwright**](https://github.com/dhanyarya-qa/mepo-playwright) | TypeScript | Automation Website with Playwright |
+| 🤖 [**mepo-playwright-new-fully-ai**](https://github.com/dhanyarya-qa/mepo-playwright-new-fully-ai) | TypeScript | Full Playwright automation generated with AI Cursor |
+| 📱 [**mepo-appium**](https://github.com/dhanyarya-qa/mepo-appium) | Python | End-to-end mobile testing framework built with Appium |
+| 🤖 [**mepo-appium-fullyAI**](https://github.com/dhanyarya-qa/mepo-appium-fullyAI) | Python | Mobile automation built with full AI assistance |
+
+</div>
+
+---
+
+## 🤖 Powered by AI
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/🤖_AI_Assisted-6C63FF?style=for-the-badge&labelColor=0D1117)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+</div>
+
+> *"AI is rapidly evolving, and I'm passionate about exploring its potential in test automation. Some of my repositories (**mepo-playwright-new-fully-ai** & **mepo-appium-fullyAI**) were built with full AI assistance, demonstrating how AI can accelerate automation development while maintaining quality standards."*
+
+<div align="center">
+
+**`💡 Explore`** ➜ **`🤖 Collaborate`** ➜ **`🚀 Innovate`**
+
 </div>
 
 ---

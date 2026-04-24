@@ -52,7 +52,7 @@
 |----------|-------------|
 | 🌐 **Web** | Playwright · TypeScript · Selenium |
 | 📱 **Mobile** | Appium · Python · Android |
-| 🔄 **CI/CD** | GitHub Actions · Allure Reports |
+| 🔄 **CI/CD** | GitHub Actions · Allure Reports · Swagger |
 | 📐 **Methods** | POM · Data-Driven · BDD |
 
 </td>
@@ -87,6 +87,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure_Report-FFA500?style=for-the-badge&logo=qameta&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 #### 💡 Practices & Tools
 ![POM](https://img.shields.io/badge/Page_Object_Model-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
@@ -130,8 +131,8 @@
 
 | Project | Tech | Highlights |
 |---------|------|------------|
-| 🌐 [**mepo-playwright**](https://github.com/dhanyarya-qa/mepo-playwright) | TypeScript, Playwright | Allure reports · Visual regression · A11y testing · Multi-browser · CI/CD |
-| 📱 [**mepo-appium**](https://github.com/dhanyarya-qa/mepo-appium) | Python, Appium, Pytest | POM architecture · API-driven setup · Auto-screenshot · Budget & Trip E2E |
+| 🌐 [**mepo-playwright**](https://github.com/dhanyarya-qa/mepo-playwright) | TypeScript, Playwright | Allure reports · Visual regression · A11y testing · Multi-browser · CI/CD · Swagger API Testing |
+| 📱 [**mepo-appium**](https://github.com/dhanyarya-qa/mepo-appium) | Python, Appium, Pytest | POM architecture · API-driven setup · Auto-screenshot · Budget & Trip E2E · Swagger Integration |
 
 ---
 

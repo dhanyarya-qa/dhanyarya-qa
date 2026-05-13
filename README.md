@@ -11,13 +11,13 @@
   <a href="https://github.com/dhanyarya-qa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aryatama0409@gmail.com">
+  <a href="mailto:dhanyarya095@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Quality+Through+Automation+%F0%9F%94%A7;Playwright+%7C+Appium+%7C+Pytest+%7C+TypeScript;Web+%26+Mobile+Test+Automation+Expert;AI-Powered+Development+%26+Test+Automation+%F0%9F%A4%96;Breaking+Bugs+Before+Users+Find+Them+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Quality+Through+Automation+%F0%9F%94%A7;Playwright+%7C+Appium+%7C+Pytest+%7C+TypeScript;Web+%26+Mobile+Test+Automation+Expert;AI-Powered+Development+%26+Test+Automation+%F0%9F%A4%96;Flutter+%7C+Firebase+%7C+Full-Stack+Development;Breaking+Bugs+Before+Users+Find+Them+%F0%9F%90%9B" alt="Typing SVG" />
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p>
@@ -35,26 +35,28 @@
 <td width="50%" valign="top">
 
 ### 🧑‍💻 Profile
+
 | | |
 |---|---|
 | 👤 **Name** | Dhany Arya Pratama |
-| 💼 **Role** | QA Automation Engineer |
+| 💼 **Role** | QA Automation Engineer & Flutter Developer |
 | 📍 **Location** | Indonesia 🇮🇩 |
-| 🎯 **Focus** | E2E Test Automation & AI Integration |
+| 🎯 **Focus** | E2E Test Automation & AI-Powered Development |
 | ⚡ **Fun Fact** | I break things professionally so users don't have to 🐛 |
-| 🔥 **Passion** | Exploring AI for Test Automation & Development |
+| 🔥 **Passion** | Exploring AI for Test Automation & Full-Stack Development |
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧰 Skills
+
 | Category | Technologies |
-|----------|-------------|
+|----------|--------------|
 | 🌐 **Web** | Playwright · TypeScript · Selenium |
-| 📱 **Mobile** | Appium · Python · Android |
+| 📱 **Mobile** | Appium · Python · Android · Flutter |
 | 🔄 **CI/CD** | GitHub Actions · Allure · Swagger |
-| 🧠 **AI/Backend** | Google Gemini · Node.js · Express.js |
-| 📐 **Methods** | POM · Data-Driven · BDD |
+| 🧠 **AI/Backend** | Google Gemini · Node.js · Express.js · Firebase |
+| 📐 **Methods** | POM · Data-Driven · BDD · Clean Architecture |
 | 🤖 **AI Tools** | Cursor · Kiro · ChatGPT · GitHub Copilot |
 
 </td>
@@ -72,24 +74,30 @@
 <div align="center">
 
 ### 🌐 Web Automation
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📱 Mobile Automation
+
 ![Appium](https://img.shields.io/badge/Appium-662D8C?style=for-the-badge&logo=appium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🧠 AI & Backend
+
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🔧 Testing & CI/CD
+
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure_Report-FFA500?style=for-the-badge&logo=qameta&logoColor=white)
@@ -97,12 +105,14 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 🤖 AI & Productivity
+
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro_IDE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 💡 Practices & Tools
+
 ![POM](https://img.shields.io/badge/Page_Object_Model-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
 ![WCAG](https://img.shields.io/badge/WCAG_A11y-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -114,6 +124,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanyarya-qa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyarya-qa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" />
@@ -126,6 +137,7 @@
 ---
 
 ## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyarya-qa&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="100%" />
 </div>
@@ -133,6 +145,7 @@
 ---
 
 ## 🔥 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/dhanyarya-qa/dhanyarya-qa/output/github-contribution-grid-snake-dark.svg" />
 </div>
@@ -140,31 +153,67 @@
 ---
 
 ## 📌 Featured Projects
+
 <div align="center">
-
-<a href="https://github.com/dhanyarya-qa/Hackativ8-AI-Integration-for-Dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=Hackativ8-AI-Integration-for-Dev&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/dhanyarya-qa/mepo-playwright">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-playwright&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/dhanyarya-qa/mepo-playwright-new-fully-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-playwright-new-fully-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/dhanyarya-qa/mepo-appium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-appium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/dhanyarya-qa/mepo-appium-fullyAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-appium-fullyAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-
+  <a href="https://github.com/dhanyarya-qa/GepreKu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=GepreKu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/dhanyarya-qa/Hackativ8-AI-Integration-for-Dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=Hackativ8-AI-Integration-for-Dev&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/dhanyarya-qa/mepo-playwright">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-playwright&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/dhanyarya-qa/mepo-playwright-new-fully-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-playwright-new-fully-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/dhanyarya-qa/mepo-appium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-appium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/dhanyarya-qa/mepo-appium-fullyAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyarya-qa&repo=mepo-appium-fullyAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  </a>
 </div>
 
 ---
 
 ## 🚀 Project Showcase
 
-### 🧠 AI Chatbot — Hackativ8 AI Integration for Dev `NEW`
+### 📱 GepreKu — Ultimate 3D Restaurant Ecosystem `NEW` `AI-POWERED`
+
+> **Enterprise Flutter app with immersive 3D experience, real-time sync, and multi-outlet management**
+
+| Aspect | Details |
+|--------|---------|
+| 🏗️ **Stack** | Flutter 3.x · Dart · Firebase (Firestore, Auth, Storage, Functions) · Riverpod 2.x |
+| 🎨 **3D Engine** | model_viewer_plus · Rive · GLB/GLTF support |
+| 📱 **Apps** | Customer App · Kitchen Display System (KDS) · Owner Dashboard |
+| ⚡ **Features** | 3D Hero Carousel · QR Scanner · Digital Bell · Shared Cart · AI Recommendations |
+| 🔒 **Security** | RBAC (Role-Based Access Control) · Firebase Security Rules · JWT |
+| 💾 **Offline** | Hive local caching · Optimistic UI · Sync on reconnect |
+| 🎯 **Architecture** | Clean Architecture · Domain-Driven Design · Page Object Model |
+| 🔄 **Real-time** | StreamProvider · Firestore snapshots (<2s sync) · WebSocket |
+
+<details>
+<summary>📊 Technical Highlights</summary>
+
+| Feature | Implementation |
+|---------|----------------|
+| **3D Carousel** | 5 best-selling products with rotatable 3D models, preloading, fallback to 2D |
+| **QR Scanner** | Custom overlay, JSON validation, table session management |
+| **Digital Bell** | Service request with 30s cooldown, 4 categories, real-time KDS notification |
+| **Shared Cart** | Real-time collaborative ordering, optimistic UI, conflict resolution |
+| **Spice Slider** | Interactive 1-10 level with Rive mascot animation, dynamic theme colors |
+| **Batch Cooking** | Auto-group similar orders, visual indicators, efficiency optimization |
+| **Inventory** | Real-time stock tracking, auto-decrement, low-stock warnings, CSV import |
+| **Payment** | Midtrans/Xendit integration, QRIS, e-wallet, webhook callbacks |
+| **Multi-Outlet** | Independent inventory, real-time monitoring, Google Maps store locator |
+
+</details>
+
+---
+
+### 🧠 AI Chatbot — Hackativ8 AI Integration for Dev
 
 > **Enterprise-grade AI Chatbot powered by Google Gemini with 15+ advanced features**
 
@@ -305,10 +354,12 @@
 ---
 
 ## 📚 All Repositories
+
 <div align="center">
 
 | Repository | Language | Description | AI |
 |------------|----------|-------------|:--:|
+| 📱 [GepreKu](https://github.com/dhanyarya-qa/GepreKu) | Dart | Ultimate 3D Restaurant Ecosystem — Flutter, Firebase, Riverpod, 3D models, real-time sync, multi-outlet | ✅ |
 | 🧠 [Hackativ8-AI-Integration-for-Dev](https://github.com/dhanyarya-qa/Hackativ8-AI-Integration-for-Dev) | JavaScript | Enterprise AI Chatbot — Google Gemini, 15+ features, JWT auth, WebSocket, smart caching, analytics | ✅ |
 | 🌐 [mepo-playwright](https://github.com/dhanyarya-qa/mepo-playwright) | TypeScript | 210+ E2E web tests — Allure, visual regression, a11y (WCAG), multi-browser, API monitoring & CI/CD | |
 | 🤖 [mepo-playwright-new-fully-ai](https://github.com/dhanyarya-qa/mepo-playwright-new-fully-ai) | TypeScript | Full E2E web automation — POM, 5 device matrix, visual regression, auto summary (MD/CSV/XLSX) | ✅ |
@@ -320,6 +371,7 @@
 ---
 
 ## 🤖 Powered by AI
+
 <div align="center">
 
 ![AI](https://img.shields.io/badge/🤖_AI_Assisted-6C63FF?style=for-the-badge&labelColor=0D1117)
@@ -330,7 +382,7 @@
 
 </div>
 
-> *"AI is rapidly evolving, and I'm passionate about exploring its potential in both test automation and software development. Repositories marked with ✅ were built with full AI assistance, demonstrating how AI can accelerate development while maintaining quality standards. From test suites with 200+ cases to enterprise-grade chatbots with 15+ features — AI is my force multiplier."*
+> *"AI is rapidly evolving, and I'm passionate about exploring its potential in both test automation and software development. Repositories marked with ✅ were built with full AI assistance, demonstrating how AI can accelerate development while maintaining quality standards. From test suites with 200+ cases to enterprise-grade chatbots with 15+ features to full-stack Flutter apps with 3D experiences — AI is my force multiplier."*
 
 <div align="center">
 
@@ -341,6 +393,7 @@
 ---
 
 ## 💬 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
